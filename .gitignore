@@ -1,0 +1,5 @@
+# Python
+*.pyc
+
+# pytest
+tests/__pycache__
